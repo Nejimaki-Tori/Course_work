@@ -15,4 +15,5 @@
 *.nav
 *.snm
 *.vrb
+*.xdv
 .DS_Store
